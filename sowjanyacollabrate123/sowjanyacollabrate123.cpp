@@ -7,6 +7,7 @@ int main()
 	cout << "hello arun";
 	cout << "hello friend";
 	cout << "hello kusuma";
+	cout << "hi";
 
 	return 0;
 
