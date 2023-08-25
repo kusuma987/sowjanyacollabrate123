@@ -8,6 +8,7 @@ int main()
 	cout << "hello friend";
 	cout << "hello kusuma";
 	cout << "hi";
+	cout << "bye";
 
 	return 0;
 
